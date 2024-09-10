@@ -169,6 +169,7 @@ Authorization: Basic; email and password<br/>
 ***
 <br/>
 <br/>
-![Screenshot 2024-09-10 111000](https://github.com/user-attachments/assets/a785be26-dd9f-4b08-8efb-1c1b7542c86f)<br/>
+![Screenshot 2024-09-10 111000](https://github.com/user-attachments/assets/a785be26-dd9f-4b08-8efb-1c1b7542c86f)
+<br/>
 <br/>
 <br/>
