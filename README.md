@@ -64,7 +64,7 @@
 **Headers:** <br/>
 **Content-Type:** application/json<br/>
 **Authorization:** Basic; email and password<br/>
-**Body:**JSON<br/>
+**Body:** JSON<br/>
 {<br/>
     "receiver": 2<br/>
 }<br/>
@@ -166,10 +166,8 @@ Authorization: Basic; email and password<br/>
     "created_at": "2024-09-10T00:00:00Z",<br/>
     "status": "pending"<br/>
 }<br/>
-***
-<br/>
-<br/>
-![Screenshot 2024-09-10 111000](https://github.com/user-attachments/assets/a785be26-dd9f-4b08-8efb-1c1b7542c86f)
+![Screenshot 2024-09-10 111000](https://github.com/user-attachments/assets/16351379-6e67-4090-b605-c4b970145669)
+
 <br/>
 <br/>
 <br/>
